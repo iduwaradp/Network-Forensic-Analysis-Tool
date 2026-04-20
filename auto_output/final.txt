@@ -1,0 +1,15 @@
+===== FINAL FORENSIC RESULT =====
+Victim IP: 10.2.28.88
+Victim MAC: 00:19:d1:b2:4d:ad
+Victim Hostname: DESKTOP-TEYQ2NR
+Victim User: brolf
+Victim Full Name: Eq Fc}
+Victim Packet Count: 7386
+19
+
+Attacker IP: 45.131.214.85
+Attack Count: 264
+
+Attack Type: Malware Delivery
+Attack Success: Successful (repeated communication)
+
